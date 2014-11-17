@@ -1,0 +1,1 @@
+Prezentace 'Praktické využití IR spektroskopie' pro seminář fyzikální chemie 20.11. 2014
