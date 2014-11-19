@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.11.10)  19 NOV 2014 19:08
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.11.10)  19 NOV 2014 19:33
 entering extended mode
 **C:/Users/hugo/Documents/hugo/vyuka/oborovy-seminar-fyz/IR/prezentace/moravec-
 ir.tex
@@ -1547,34 +1547,41 @@ rechody.png>] [6
 ]
 (C:\Users\hugo\AppData\Roaming\MiKTeX\2.9\tex\latex\ucs\uni-32.def
 File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
-) [7
+)
+<img/CO2-vibration.png, id=177, 608.2725pt x 241.90375pt>
+File: img/CO2-vibration.png Graphic file (type png)
 
-]
-[8
+<use img/CO2-vibration.png>
+Package pdftex.def Info: img/CO2-vibration.png used on input line 153.
+(pdftex.def)             Requested size: 243.30469pt x 96.75978pt.
+ [7
+
+ <C:/Users/hugo/Documents/hugo/vyuka/oborovy-seminar-fyz/IR/prezentace/img/CO2-
+vibration.png>] [8
 
 ] [9
 
-] <img/spectrum.png, id=254, 702.71042pt x 360.32489pt>
+]
+<img/spectrum.png, id=256, 702.71042pt x 360.32489pt>
 File: img/spectrum.png Graphic file (type png)
-
-<use img/spectrum.png>
-Package pdftex.def Info: img/spectrum.png used on input line 188.
+ <use img/spectrum.png>
+Package pdftex.def Info: img/spectrum.png used on input line 189.
 (pdftex.def)             Requested size: 702.7087pt x 360.324pt.
 
 
 Package textpos Warning: environment textblock* not in vertical mode. 
 (textpos)                Environment textblock* should not have any text
 (textpos)                or printable material appearing before it.
-(textpos)                Alignment may work out wrongly. on input line 188.
+(textpos)                Alignment may work out wrongly. on input line 189.
 
-<img/spectrum-struct.png, id=255, 179.2296pt x 88.6512pt>
+<img/spectrum-struct.png, id=257, 179.2296pt x 88.6512pt>
 File: img/spectrum-struct.png Graphic file (type png)
 
 <use img/spectrum-struct.png>
-Package pdftex.def Info: img/spectrum-struct.png used on input line 188.
+Package pdftex.def Info: img/spectrum-struct.png used on input line 189.
 (pdftex.def)             Requested size: 80.0pt x 39.56937pt.
 
-Overfull \hbox (51.54726pt too wide) in paragraph at lines 188--188
+Overfull \hbox (51.54726pt too wide) in paragraph at lines 189--189
 [][]  
  []
 
@@ -1587,103 +1594,103 @@ trum.png> <C:/Users/hugo/Documents/hugo/vyuka/oborovy-seminar-fyz/IR/prezentace
 ] [12
 
 ]
-<img/ftir.png, id=333, 341.57802pt x 247.49066pt>
+<img/ftir.png, id=335, 341.57802pt x 247.49066pt>
 File: img/ftir.png Graphic file (type png)
  <use img/ftir.png>
-Package pdftex.def Info: img/ftir.png used on input line 218.
+Package pdftex.def Info: img/ftir.png used on input line 219.
 (pdftex.def)             Requested size: 341.57718pt x 247.49004pt.
  [13
 
  <C:/Users/hugo/Documents/hugo/vyuka/oborovy-seminar-fyz/IR/prezentace/img/ftir
 .png>]
-<img/kbr-pellets.png, id=361, 387.05678pt x 140.65973pt>
+<img/kbr-pellets.png, id=363, 387.05678pt x 140.65973pt>
 File: img/kbr-pellets.png Graphic file (type png)
 
 <use img/kbr-pellets.png>
-Package pdftex.def Info: img/kbr-pellets.png used on input line 230.
+Package pdftex.def Info: img/kbr-pellets.png used on input line 231.
 (pdftex.def)             Requested size: 387.05583pt x 140.65938pt.
  [14
 
  <C:/Users/hugo/Documents/hugo/vyuka/oborovy-seminar-fyz/IR/prezentace/img/kbr-
 pellets.png>]
-<img/nujol.png, id=388, 567.11874pt x 398.48875pt>
+<img/nujol.png, id=390, 567.11874pt x 398.48875pt>
 File: img/nujol.png Graphic file (type png)
  <use img/nujol.png>
-Package pdftex.def Info: img/nujol.png used on input line 240.
+Package pdftex.def Info: img/nujol.png used on input line 241.
 (pdftex.def)             Requested size: 567.11736pt x 398.48778pt.
  [15
 
  <C:/Users/hugo/Documents/hugo/vyuka/oborovy-seminar-fyz/IR/prezentace/img/nujo
-l.png>] <img/water.png, id=415, 1013.7875pt x 620.3175pt>
+l.png>] <img/water.png, id=417, 1013.7875pt x 620.3175pt>
 File: img/water.png Graphic file (type png)
  <use img/water.png>
-Package pdftex.def Info: img/water.png used on input line 251.
+Package pdftex.def Info: img/water.png used on input line 252.
 (pdftex.def)             Requested size: 1013.78505pt x 620.316pt.
 
 [16
 
  <C:/Users/hugo/Documents/hugo/vyuka/oborovy-seminar-fyz/IR/prezentace/img/wate
-r.png>] <img/atr.png, id=442, 352.93019pt x 172.60602pt>
+r.png>] <img/atr.png, id=444, 352.93019pt x 172.60602pt>
 File: img/atr.png Graphic file (type png)
  <use img/atr.png>
-Package pdftex.def Info: img/atr.png used on input line 264.
+Package pdftex.def Info: img/atr.png used on input line 265.
 (pdftex.def)             Requested size: 352.92932pt x 172.60559pt.
 
 [17
 
  <C:/Users/hugo/Documents/hugo/vyuka/oborovy-seminar-fyz/IR/prezentace/img/atr.
-png>] <img/irras.png, id=470, 628.3475pt x 400.49625pt>
+png>] <img/irras.png, id=471, 628.3475pt x 400.49625pt>
 File: img/irras.png Graphic file (type png)
  <use img/irras.png>
-Package pdftex.def Info: img/irras.png used on input line 276.
+Package pdftex.def Info: img/irras.png used on input line 277.
 (pdftex.def)             Requested size: 628.34596pt x 400.49527pt.
 
 [18
 
  <C:/Users/hugo/Documents/hugo/vyuka/oborovy-seminar-fyz/IR/prezentace/img/irra
-s.png>] <img/drifts.png, id=497, 476.78125pt x 222.8325pt>
+s.png>] <img/drifts.png, id=498, 476.78125pt x 222.8325pt>
 File: img/drifts.png Graphic file (type png)
 
 <use img/drifts.png>
-Package pdftex.def Info: img/drifts.png used on input line 290.
+Package pdftex.def Info: img/drifts.png used on input line 291.
 (pdftex.def)             Requested size: 476.78008pt x 222.83195pt.
  [19
 
  <C:/Users/hugo/Documents/hugo/vyuka/oborovy-seminar-fyz/IR/prezentace/img/drif
 ts.png>]
-<img/tg-irFoto.jpg, id=525, 1026.234pt x 529.98pt>
+<img/tg-irFoto.jpg, id=526, 1026.234pt x 529.98pt>
 File: img/tg-irFoto.jpg Graphic file (type jpg)
  <use img/tg-irFoto.jpg>
-Package pdftex.def Info: img/tg-irFoto.jpg used on input line 303.
+Package pdftex.def Info: img/tg-irFoto.jpg used on input line 304.
 (pdftex.def)             Requested size: 1026.23149pt x 529.97868pt.
 
 [20
 
  <C:/Users/hugo/Documents/hugo/vyuka/oborovy-seminar-fyz/IR/prezentace/img/tg-i
-rFoto.jpg>] <img/tg-ir.png, id=551, 1021.8175pt x 764.8575pt>
+rFoto.jpg>] <img/tg-ir.png, id=552, 1021.8175pt x 764.8575pt>
 File: img/tg-ir.png Graphic file (type png)
 
 <use img/tg-ir.png>
-Package pdftex.def Info: img/tg-ir.png used on input line 310.
+Package pdftex.def Info: img/tg-ir.png used on input line 311.
 (pdftex.def)             Requested size: 1021.81502pt x 764.85562pt.
  [21
 
  <C:/Users/hugo/Documents/hugo/vyuka/oborovy-seminar-fyz/IR/prezentace/img/tg-i
 r.png (PNG copy)>]
-<img/gc-ir.jpg, id=577, 1505.625pt x 664.4825pt>
+<img/gc-ir.jpg, id=578, 1505.625pt x 664.4825pt>
 File: img/gc-ir.jpg Graphic file (type jpg)
  <use img/gc-ir.jpg>
-Package pdftex.def Info: img/gc-ir.jpg used on input line 322.
+Package pdftex.def Info: img/gc-ir.jpg used on input line 323.
 (pdftex.def)             Requested size: 1505.62134pt x 664.48087pt.
  [22
 
  <C:/Users/hugo/Documents/hugo/vyuka/oborovy-seminar-fyz/IR/prezentace/img/gc-i
 r.jpg>] [23
 
-] <img/tab.png, id=628, 722.7pt x 473.6094pt>
+] <img/tab.png, id=630, 722.7pt x 473.6094pt>
 File: img/tab.png Graphic file (type png)
  <use img/tab.png>
-Package pdftex.def Info: img/tab.png used on input line 344.
+Package pdftex.def Info: img/tab.png used on input line 345.
 (pdftex.def)             Requested size: 722.69823pt x 473.60825pt.
  [24
 
@@ -1691,10 +1698,10 @@ Package pdftex.def Info: img/tab.png used on input line 344.
 png>]
 [25
 
-] <img/sdbs.png, id=683, 542.5068pt x 387.3672pt>
+] <img/sdbs.png, id=685, 542.5068pt x 387.3672pt>
 File: img/sdbs.png Graphic file (type png)
  <use img/sdbs.png>
-Package pdftex.def Info: img/sdbs.png used on input line 372.
+Package pdftex.def Info: img/sdbs.png used on input line 373.
 (pdftex.def)             Requested size: 542.50548pt x 387.36626pt.
 
 [26
@@ -1702,43 +1709,43 @@ Package pdftex.def Info: img/sdbs.png used on input line 372.
  <C:/Users/hugo/Documents/hugo/vyuka/oborovy-seminar-fyz/IR/prezentace/img/sdbs
 .png>] [27
 
-] <img/nova-contactless.png, id=737, 496.85625pt x 290.08376pt>
+] <img/nova-contactless.png, id=739, 496.85625pt x 290.08376pt>
 File: img/nova-contactless.png Graphic file (type png)
 
 <use img/nova-contactless.png>
-Package pdftex.def Info: img/nova-contactless.png used on input line 401.
+Package pdftex.def Info: img/nova-contactless.png used on input line 402.
 (pdftex.def)             Requested size: 496.85503pt x 290.08304pt.
  [28
 
  <C:/Users/hugo/Documents/hugo/vyuka/oborovy-seminar-fyz/IR/prezentace/img/nova
 -contactless.png (PNG copy)>]
-<img/mikroskop.jpg, id=763, 250.536pt x 177.3024pt>
+<img/mikroskop.jpg, id=765, 250.536pt x 177.3024pt>
 File: img/mikroskop.jpg Graphic file (type jpg)
  <use img/mikroskop.jpg>
-Package pdftex.def Info: img/mikroskop.jpg used on input line 413.
+Package pdftex.def Info: img/mikroskop.jpg used on input line 414.
 (pdftex.def)             Requested size: 250.53537pt x 177.30194pt.
 
-Overfull \vbox (7.1669pt too high) detected at line 413
+Overfull \vbox (7.1669pt too high) detected at line 414
  []
 
 [29
 
  <C:/Users/hugo/Documents/hugo/vyuka/oborovy-seminar-fyz/IR/prezentace/img/mikr
-oskop.jpg>] <img/amide-IR.png, id=789, 485.815pt x 260.975pt>
+oskop.jpg>] <img/amide-IR.png, id=791, 485.815pt x 260.975pt>
 File: img/amide-IR.png Graphic file (type png)
 
 <use img/amide-IR.png>
-Package pdftex.def Info: img/amide-IR.png used on input line 425.
+Package pdftex.def Info: img/amide-IR.png used on input line 426.
 (pdftex.def)             Requested size: 485.81381pt x 260.97437pt.
  [30
 
  <C:/Users/hugo/Documents/hugo/vyuka/oborovy-seminar-fyz/IR/prezentace/img/amid
 e-IR.png (PNG copy)>]
-<img/pressure-dependence.png, id=815, 357.335pt x 317.185pt>
+<img/pressure-dependence.png, id=817, 357.335pt x 317.185pt>
 File: img/pressure-dependence.png Graphic file (type png)
 
 <use img/pressure-dependence.png>
-Package pdftex.def Info: img/pressure-dependence.png used on input line 436.
+Package pdftex.def Info: img/pressure-dependence.png used on input line 437.
 (pdftex.def)             Requested size: 357.33412pt x 317.1842pt.
  [31
 
@@ -1746,19 +1753,19 @@ Package pdftex.def Info: img/pressure-dependence.png used on input line 436.
 sure-dependence.png (PNG copy)>] [32
 
 ]
-<img/ifs28.jpg, id=867, 2826.56pt x 2119.92pt>
+<img/ifs28.jpg, id=869, 2826.56pt x 2119.92pt>
 File: img/ifs28.jpg Graphic file (type jpg)
  <use img/ifs28.jpg>
-Package pdftex.def Info: img/ifs28.jpg used on input line 455.
+Package pdftex.def Info: img/ifs28.jpg used on input line 456.
 (pdftex.def)             Requested size: 2826.55313pt x 2119.91484pt.
  [33
 
  <C:/Users/hugo/Documents/hugo/vyuka/oborovy-seminar-fyz/IR/prezentace/img/ifs2
 8.jpg>]
-<img/equinox.jpg, id=893, 2826.56pt x 2119.92pt>
+<img/equinox.jpg, id=895, 2826.56pt x 2119.92pt>
 File: img/equinox.jpg Graphic file (type jpg)
  <use img/equinox.jpg>
-Package pdftex.def Info: img/equinox.jpg used on input line 462.
+Package pdftex.def Info: img/equinox.jpg used on input line 463.
 (pdftex.def)             Requested size: 2826.55313pt x 2119.91484pt.
  [34
 
@@ -1766,15 +1773,15 @@ Package pdftex.def Info: img/equinox.jpg used on input line 462.
 nox.jpg>]
 File: img/tg-irFoto.jpg Graphic file (type jpg)
  <use img/tg-irFoto.jpg>
-Package pdftex.def Info: img/tg-irFoto.jpg used on input line 469.
+Package pdftex.def Info: img/tg-irFoto.jpg used on input line 470.
 (pdftex.def)             Requested size: 1026.23149pt x 529.97868pt.
  [35
 
 ]
-<img/alpha.jpg, id=943, 1019.007pt x 643.203pt>
+<img/alpha.jpg, id=945, 1019.007pt x 643.203pt>
 File: img/alpha.jpg Graphic file (type jpg)
  <use img/alpha.jpg>
-Package pdftex.def Info: img/alpha.jpg used on input line 476.
+Package pdftex.def Info: img/alpha.jpg used on input line 477.
 (pdftex.def)             Requested size: 1019.00452pt x 643.20143pt.
  [36
 
@@ -1783,13 +1790,13 @@ a.jpg>]
 \tf@nav=\write6
 \tf@toc=\write7
 \tf@snm=\write8
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 478.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 478.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 479.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 479.
 
 (C:\Users\hugo\Documents\hugo\vyuka\oborovy-seminar-fyz\IR\prezentace\moravec-i
 r.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 478.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 478.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 479.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 479.
 Package rerunfilecheck Info: File `moravec-ir.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
@@ -1797,13 +1804,13 @@ Package rerunfilecheck Info: File `moravec-ir.out' has not changed.
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 478.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 479.
  ) 
 Here is how much of TeX's memory you used:
- 28631 strings out of 493921
- 518025 string characters out of 3147284
- 549156 words of memory out of 3000000
- 31329 multiletter control sequences out of 15000+200000
+ 28636 strings out of 493921
+ 518145 string characters out of 3147284
+ 549212 words of memory out of 3000000
+ 31333 multiletter control sequences out of 15000+200000
  14240 words of font info for 52 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  56i,14n,55p,10412b,780s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1818,9 +1825,9 @@ s/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cms
 y7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C
 :/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/P
 rogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msam7.pfb>
-Output written on moravec-ir.pdf (36 pages, 7650717 bytes).
+Output written on moravec-ir.pdf (36 pages, 7650736 bytes).
 PDF statistics:
- 1025 PDF objects out of 1200 (max. 8388607)
+ 1027 PDF objects out of 1200 (max. 8388607)
  73 named destinations out of 1000 (max. 500000)
- 158 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 163 words of extra memory for PDF output out of 10000 (max. 10000000)
 
