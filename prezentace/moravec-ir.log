@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.11.10)  19 NOV 2014 19:33
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.11.10)  22 NOV 2014 18:15
 entering extended mode
 **C:/Users/hugo/Documents/hugo/vyuka/oborovy-seminar-fyz/IR/prezentace/moravec-
 ir.tex
@@ -1250,25 +1250,29 @@ Package babel Info: Making " an active character on input line 172.
 \cs@wordlen=\count186
 Package babel Info: Making - an active character on input line 226.
 ))
+(C:\Users\hugo\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\base\themes\color\be
+amercolorthemecrane.sty
+Package: beamercolorthemecrane 2010/06/17  (rcs-revision d02a7cf4d8ae)
+)
 (C:\Users\hugo\AppData\Roaming\MiKTeX\2.9\tex\cslatex\base\czech.sty)
 (C:\Users\hugo\Documents\hugo\vyuka\oborovy-seminar-fyz\IR\prezentace\moravec-i
 r.aux)
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1319,7 +1323,7 @@ LaTeX Font Info:    ... okay on input line 53.
 \everyMPtoPDFconversion=\toks56
 ) ABD: EveryShipout initializing macros
 \AtBeginShipoutBox=\box73
-Package hyperref Info: Link coloring OFF on input line 53.
+Package hyperref Info: Link coloring OFF on input line 54.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -1329,9 +1333,9 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count193
 )
-LaTeX Info: Redefining \ref on input line 53.
-LaTeX Info: Redefining \pageref on input line 53.
-LaTeX Info: Redefining \nameref on input line 53.
+LaTeX Info: Redefining \ref on input line 54.
+LaTeX Info: Redefining \pageref on input line 54.
+LaTeX Info: Redefining \nameref on input line 54.
 
 (C:\Users\hugo\Documents\hugo\vyuka\oborovy-seminar-fyz\IR\prezentace\moravec-i
 r.out)
@@ -1339,57 +1343,57 @@ r.out)
 r.out)
 \@outlinefile=\write5
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 53.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 54.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 53.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 54.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 53.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 53.
+(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 54.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 54.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 53.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 54.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 53.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 53.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 54.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 54.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 53.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 54.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 53.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 53.
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 54.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 54.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 53.
+(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 54.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 53.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 53.
+(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 54.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 54.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 53.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 54.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 53.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 54.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 53.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 54.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 53.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 54.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmr/bx/n on input line 53.
+(Font)                  OT1/cmss/bx/n --> OT1/cmr/bx/n on input line 54.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmss/bx/n on input line 53.
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/bx/n on input line 54.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 53.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 54.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 53.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 54.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/bx/n on input line 53.
-LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 53.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/bx/n on input line 54.
+LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 54.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `normal'
 (Font)                  OT1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 5
-3.
+4.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  OT1/cmss/bx/it --> OT1/mathkerncmss/m/sl on input line 
-53.
+54.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on inp
-ut line 53.
+ut line 54.
 
 (C:\Users\hugo\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\base\translator\dict
 s\translator-basic-dictionary\translator-basic-dictionary-English.dict
@@ -1417,7 +1421,7 @@ Dictionary: translator-numbers-dictionary, Language: English
 s\translator-theorem-dictionary\translator-theorem-dictionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 )
-LaTeX Info: Redefining \includegraphics on input line 53.
+LaTeX Info: Redefining \includegraphics on input line 54.
 
 (C:\Users\hugo\AppData\Roaming\MiKTeX\2.9\tex\latex\ucs\ucsencs.def
 File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
@@ -1438,7 +1442,7 @@ Package ucs Warning: ***************************
 (ucs)                ***************************
 (ucs)                Activating compatibility mode.
 (ucs)                ***************************
-(ucs)                 on input line 53.
+(ucs)                 on input line 54.
 
 (C:\Users\hugo\AppData\Roaming\MiKTeX\2.9\tex\latex\ucs\utf8x.def
 File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
@@ -1447,7 +1451,7 @@ File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
 r.nav)
 
 Package hyperref Warning: Option `pdfauthor' has already been used,
-(hyperref)                setting the option has no effect on input line 58.
+(hyperref)                setting the option has no effect on input line 59.
 
 (C:\Users\hugo\AppData\Roaming\MiKTeX\2.9\tex\latex\ucs\uni-0.def
 File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
@@ -1457,23 +1461,23 @@ File: uni-1.def 2013/05/13 UCS: Unicode data U+0100..U+01FF
 )
 
 LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <4> not available
-(Font)              size <5> substituted on input line 62.
+(Font)              size <5> substituted on input line 63.
 
 [1
 
 {C:/Users/hugo/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-LaTeX Font Info:    Try loading font information for U+msa on input line 92.
+LaTeX Font Info:    Try loading font information for U+msa on input line 93.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 92.
+LaTeX Font Info:    Try loading font information for U+msb on input line 93.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Try loading font information for OT1+mathkerncmss on input 
-line 92.
+line 93.
 
 (C:\Users\hugo\AppData\Roaming\MiKTeX\2.9\tex\latex\sansmathaccent\ot1mathkernc
 mss.fd
@@ -1482,42 +1486,42 @@ thkerncmss.
 ) [2
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 114--114
+Underfull \hbox (badness 10000) in paragraph at lines 115--115
 \OT1/cmss/m/n/10.95 Luminiscencn
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 114--114
+Underfull \hbox (badness 10000) in paragraph at lines 115--115
 []\OT1/cmss/m/n/10.95 Ramanova spek-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 114--114
+Underfull \hbox (badness 10000) in paragraph at lines 115--115
 []\OT1/cmss/m/n/10.95 Infracervena
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 114--114
+Underfull \hbox (badness 10000) in paragraph at lines 115--115
 \OT1/cmss/m/n/10.95 spek-trosko-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 114--114
+Underfull \hbox (badness 10000) in paragraph at lines 115--115
 []\OT1/cmss/m/n/10.95 Ramanova spek-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 114--114
+Underfull \hbox (badness 10000) in paragraph at lines 115--115
 []\OT1/cmss/m/n/10.95 Mikrovlnna
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 114--114
+Underfull \hbox (badness 10000) in paragraph at lines 115--115
 \OT1/cmss/m/n/10.95 spek-trosko-
  []
 
 
-Overfull \hbox (2.47536pt too wide) in paragraph at lines 114--114
+Overfull \hbox (2.47536pt too wide) in paragraph at lines 115--115
 [][]  
  []
 
@@ -1527,7 +1531,7 @@ Overfull \hbox (2.47536pt too wide) in paragraph at lines 114--114
 File: img/em-spectrum.png Graphic file (type png)
 
 <use img/em-spectrum.png>
-Package pdftex.def Info: img/em-spectrum.png used on input line 122.
+Package pdftex.def Info: img/em-spectrum.png used on input line 123.
 (pdftex.def)             Requested size: 677.52959pt x 401.49901pt.
  [4
 
@@ -1537,7 +1541,7 @@ pectrum.png>]
 File: img/el-prechody.png Graphic file (type png)
 
 <use img/el-prechody.png>
-Package pdftex.def Info: img/el-prechody.png used on input line 129.
+Package pdftex.def Info: img/el-prechody.png used on input line 130.
 (pdftex.def)             Requested size: 515.31526pt x 345.63828pt.
  [5
 
@@ -1552,7 +1556,7 @@ File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
 File: img/CO2-vibration.png Graphic file (type png)
 
 <use img/CO2-vibration.png>
-Package pdftex.def Info: img/CO2-vibration.png used on input line 153.
+Package pdftex.def Info: img/CO2-vibration.png used on input line 154.
 (pdftex.def)             Requested size: 243.30469pt x 96.75978pt.
  [7
 
@@ -1565,23 +1569,23 @@ vibration.png>] [8
 <img/spectrum.png, id=256, 702.71042pt x 360.32489pt>
 File: img/spectrum.png Graphic file (type png)
  <use img/spectrum.png>
-Package pdftex.def Info: img/spectrum.png used on input line 189.
+Package pdftex.def Info: img/spectrum.png used on input line 190.
 (pdftex.def)             Requested size: 702.7087pt x 360.324pt.
 
 
 Package textpos Warning: environment textblock* not in vertical mode. 
 (textpos)                Environment textblock* should not have any text
 (textpos)                or printable material appearing before it.
-(textpos)                Alignment may work out wrongly. on input line 189.
+(textpos)                Alignment may work out wrongly. on input line 190.
 
 <img/spectrum-struct.png, id=257, 179.2296pt x 88.6512pt>
 File: img/spectrum-struct.png Graphic file (type png)
 
 <use img/spectrum-struct.png>
-Package pdftex.def Info: img/spectrum-struct.png used on input line 189.
+Package pdftex.def Info: img/spectrum-struct.png used on input line 190.
 (pdftex.def)             Requested size: 80.0pt x 39.56937pt.
 
-Overfull \hbox (51.54726pt too wide) in paragraph at lines 189--189
+Overfull \hbox (51.54726pt too wide) in paragraph at lines 190--190
 [][]  
  []
 
@@ -1597,7 +1601,7 @@ trum.png> <C:/Users/hugo/Documents/hugo/vyuka/oborovy-seminar-fyz/IR/prezentace
 <img/ftir.png, id=335, 341.57802pt x 247.49066pt>
 File: img/ftir.png Graphic file (type png)
  <use img/ftir.png>
-Package pdftex.def Info: img/ftir.png used on input line 219.
+Package pdftex.def Info: img/ftir.png used on input line 220.
 (pdftex.def)             Requested size: 341.57718pt x 247.49004pt.
  [13
 
@@ -1607,7 +1611,7 @@ Package pdftex.def Info: img/ftir.png used on input line 219.
 File: img/kbr-pellets.png Graphic file (type png)
 
 <use img/kbr-pellets.png>
-Package pdftex.def Info: img/kbr-pellets.png used on input line 231.
+Package pdftex.def Info: img/kbr-pellets.png used on input line 232.
 (pdftex.def)             Requested size: 387.05583pt x 140.65938pt.
  [14
 
@@ -1616,16 +1620,24 @@ pellets.png>]
 <img/nujol.png, id=390, 567.11874pt x 398.48875pt>
 File: img/nujol.png Graphic file (type png)
  <use img/nujol.png>
-Package pdftex.def Info: img/nujol.png used on input line 241.
+Package pdftex.def Info: img/nujol.png used on input line 242.
 (pdftex.def)             Requested size: 567.11736pt x 398.48778pt.
- [15
+
+Overfull \vbox (1.79475pt too high) detected at line 242
+ []
+
+[15
 
  <C:/Users/hugo/Documents/hugo/vyuka/oborovy-seminar-fyz/IR/prezentace/img/nujo
 l.png>] <img/water.png, id=417, 1013.7875pt x 620.3175pt>
 File: img/water.png Graphic file (type png)
- <use img/water.png>
-Package pdftex.def Info: img/water.png used on input line 252.
+
+<use img/water.png>
+Package pdftex.def Info: img/water.png used on input line 253.
 (pdftex.def)             Requested size: 1013.78505pt x 620.316pt.
+
+Overfull \vbox (2.0706pt too high) detected at line 253
+ []
 
 [16
 
@@ -1633,7 +1645,7 @@ Package pdftex.def Info: img/water.png used on input line 252.
 r.png>] <img/atr.png, id=444, 352.93019pt x 172.60602pt>
 File: img/atr.png Graphic file (type png)
  <use img/atr.png>
-Package pdftex.def Info: img/atr.png used on input line 265.
+Package pdftex.def Info: img/atr.png used on input line 266.
 (pdftex.def)             Requested size: 352.92932pt x 172.60559pt.
 
 [17
@@ -1642,7 +1654,7 @@ Package pdftex.def Info: img/atr.png used on input line 265.
 png>] <img/irras.png, id=471, 628.3475pt x 400.49625pt>
 File: img/irras.png Graphic file (type png)
  <use img/irras.png>
-Package pdftex.def Info: img/irras.png used on input line 277.
+Package pdftex.def Info: img/irras.png used on input line 278.
 (pdftex.def)             Requested size: 628.34596pt x 400.49527pt.
 
 [18
@@ -1652,7 +1664,7 @@ s.png>] <img/drifts.png, id=498, 476.78125pt x 222.8325pt>
 File: img/drifts.png Graphic file (type png)
 
 <use img/drifts.png>
-Package pdftex.def Info: img/drifts.png used on input line 291.
+Package pdftex.def Info: img/drifts.png used on input line 292.
 (pdftex.def)             Requested size: 476.78008pt x 222.83195pt.
  [19
 
@@ -1661,8 +1673,11 @@ ts.png>]
 <img/tg-irFoto.jpg, id=526, 1026.234pt x 529.98pt>
 File: img/tg-irFoto.jpg Graphic file (type jpg)
  <use img/tg-irFoto.jpg>
-Package pdftex.def Info: img/tg-irFoto.jpg used on input line 304.
+Package pdftex.def Info: img/tg-irFoto.jpg used on input line 305.
 (pdftex.def)             Requested size: 1026.23149pt x 529.97868pt.
+
+Overfull \vbox (6.53806pt too high) detected at line 305
+ []
 
 [20
 
@@ -1671,49 +1686,54 @@ rFoto.jpg>] <img/tg-ir.png, id=552, 1021.8175pt x 764.8575pt>
 File: img/tg-ir.png Graphic file (type png)
 
 <use img/tg-ir.png>
-Package pdftex.def Info: img/tg-ir.png used on input line 311.
+Package pdftex.def Info: img/tg-ir.png used on input line 312.
 (pdftex.def)             Requested size: 1021.81502pt x 764.85562pt.
- [21
+
+Overfull \vbox (4.53015pt too high) detected at line 312
+ []
+
+[21
 
  <C:/Users/hugo/Documents/hugo/vyuka/oborovy-seminar-fyz/IR/prezentace/img/tg-i
-r.png (PNG copy)>]
-<img/gc-ir.jpg, id=578, 1505.625pt x 664.4825pt>
+r.png (PNG copy)>] <img/gc-ir.jpg, id=578, 1505.625pt x 664.4825pt>
 File: img/gc-ir.jpg Graphic file (type jpg)
- <use img/gc-ir.jpg>
-Package pdftex.def Info: img/gc-ir.jpg used on input line 323.
+
+<use img/gc-ir.jpg>
+Package pdftex.def Info: img/gc-ir.jpg used on input line 324.
 (pdftex.def)             Requested size: 1505.62134pt x 664.48087pt.
  [22
 
  <C:/Users/hugo/Documents/hugo/vyuka/oborovy-seminar-fyz/IR/prezentace/img/gc-i
 r.jpg>] [23
 
-] <img/tab.png, id=630, 722.7pt x 473.6094pt>
+]
+<img/tab.png, id=630, 722.7pt x 473.6094pt>
 File: img/tab.png Graphic file (type png)
  <use img/tab.png>
-Package pdftex.def Info: img/tab.png used on input line 345.
+Package pdftex.def Info: img/tab.png used on input line 346.
 (pdftex.def)             Requested size: 722.69823pt x 473.60825pt.
  [24
 
  <C:/Users/hugo/Documents/hugo/vyuka/oborovy-seminar-fyz/IR/prezentace/img/tab.
-png>]
-[25
+png>] [25
 
-] <img/sdbs.png, id=685, 542.5068pt x 387.3672pt>
+]
+<img/sdbs.png, id=685, 542.5068pt x 387.3672pt>
 File: img/sdbs.png Graphic file (type png)
  <use img/sdbs.png>
-Package pdftex.def Info: img/sdbs.png used on input line 373.
+Package pdftex.def Info: img/sdbs.png used on input line 374.
 (pdftex.def)             Requested size: 542.50548pt x 387.36626pt.
-
-[26
+ [26
 
  <C:/Users/hugo/Documents/hugo/vyuka/oborovy-seminar-fyz/IR/prezentace/img/sdbs
-.png>] [27
+.png>]
+[27
 
 ] <img/nova-contactless.png, id=739, 496.85625pt x 290.08376pt>
 File: img/nova-contactless.png Graphic file (type png)
 
 <use img/nova-contactless.png>
-Package pdftex.def Info: img/nova-contactless.png used on input line 402.
+Package pdftex.def Info: img/nova-contactless.png used on input line 403.
 (pdftex.def)             Requested size: 496.85503pt x 290.08304pt.
  [28
 
@@ -1722,10 +1742,10 @@ Package pdftex.def Info: img/nova-contactless.png used on input line 402.
 <img/mikroskop.jpg, id=765, 250.536pt x 177.3024pt>
 File: img/mikroskop.jpg Graphic file (type jpg)
  <use img/mikroskop.jpg>
-Package pdftex.def Info: img/mikroskop.jpg used on input line 414.
+Package pdftex.def Info: img/mikroskop.jpg used on input line 415.
 (pdftex.def)             Requested size: 250.53537pt x 177.30194pt.
 
-Overfull \vbox (7.1669pt too high) detected at line 414
+Overfull \vbox (14.7028pt too high) detected at line 415
  []
 
 [29
@@ -1735,7 +1755,7 @@ oskop.jpg>] <img/amide-IR.png, id=791, 485.815pt x 260.975pt>
 File: img/amide-IR.png Graphic file (type png)
 
 <use img/amide-IR.png>
-Package pdftex.def Info: img/amide-IR.png used on input line 426.
+Package pdftex.def Info: img/amide-IR.png used on input line 427.
 (pdftex.def)             Requested size: 485.81381pt x 260.97437pt.
  [30
 
@@ -1745,7 +1765,7 @@ e-IR.png (PNG copy)>]
 File: img/pressure-dependence.png Graphic file (type png)
 
 <use img/pressure-dependence.png>
-Package pdftex.def Info: img/pressure-dependence.png used on input line 437.
+Package pdftex.def Info: img/pressure-dependence.png used on input line 438.
 (pdftex.def)             Requested size: 357.33412pt x 317.1842pt.
  [31
 
@@ -1756,24 +1776,32 @@ sure-dependence.png (PNG copy)>] [32
 <img/ifs28.jpg, id=869, 2826.56pt x 2119.92pt>
 File: img/ifs28.jpg Graphic file (type jpg)
  <use img/ifs28.jpg>
-Package pdftex.def Info: img/ifs28.jpg used on input line 456.
+Package pdftex.def Info: img/ifs28.jpg used on input line 457.
 (pdftex.def)             Requested size: 2826.55313pt x 2119.91484pt.
- [33
+
+Overfull \vbox (3.45471pt too high) detected at line 457
+ []
+
+[33
 
  <C:/Users/hugo/Documents/hugo/vyuka/oborovy-seminar-fyz/IR/prezentace/img/ifs2
-8.jpg>]
-<img/equinox.jpg, id=895, 2826.56pt x 2119.92pt>
+8.jpg>] <img/equinox.jpg, id=895, 2826.56pt x 2119.92pt>
 File: img/equinox.jpg Graphic file (type jpg)
- <use img/equinox.jpg>
-Package pdftex.def Info: img/equinox.jpg used on input line 463.
+
+<use img/equinox.jpg>
+Package pdftex.def Info: img/equinox.jpg used on input line 464.
 (pdftex.def)             Requested size: 2826.55313pt x 2119.91484pt.
- [34
+
+Overfull \vbox (0.2672pt too high) detected at line 464
+ []
+
+[34
 
  <C:/Users/hugo/Documents/hugo/vyuka/oborovy-seminar-fyz/IR/prezentace/img/equi
 nox.jpg>]
 File: img/tg-irFoto.jpg Graphic file (type jpg)
  <use img/tg-irFoto.jpg>
-Package pdftex.def Info: img/tg-irFoto.jpg used on input line 470.
+Package pdftex.def Info: img/tg-irFoto.jpg used on input line 471.
 (pdftex.def)             Requested size: 1026.23149pt x 529.97868pt.
  [35
 
@@ -1781,7 +1809,7 @@ Package pdftex.def Info: img/tg-irFoto.jpg used on input line 470.
 <img/alpha.jpg, id=945, 1019.007pt x 643.203pt>
 File: img/alpha.jpg Graphic file (type jpg)
  <use img/alpha.jpg>
-Package pdftex.def Info: img/alpha.jpg used on input line 477.
+Package pdftex.def Info: img/alpha.jpg used on input line 478.
 (pdftex.def)             Requested size: 1019.00452pt x 643.20143pt.
  [36
 
@@ -1790,13 +1818,13 @@ a.jpg>]
 \tf@nav=\write6
 \tf@toc=\write7
 \tf@snm=\write8
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 479.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 479.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 480.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 480.
 
 (C:\Users\hugo\Documents\hugo\vyuka\oborovy-seminar-fyz\IR\prezentace\moravec-i
 r.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 479.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 479.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 480.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 480.
 Package rerunfilecheck Info: File `moravec-ir.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
@@ -1804,16 +1832,16 @@ Package rerunfilecheck Info: File `moravec-ir.out' has not changed.
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 479.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 480.
  ) 
 Here is how much of TeX's memory you used:
- 28636 strings out of 493921
- 518145 string characters out of 3147284
- 549212 words of memory out of 3000000
- 31333 multiletter control sequences out of 15000+200000
+ 28673 strings out of 493921
+ 519409 string characters out of 3147284
+ 550625 words of memory out of 3000000
+ 31367 multiletter control sequences out of 15000+200000
  14240 words of font info for 52 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 56i,14n,55p,10412b,780s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 56i,14n,55p,10412b,788s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Pr
 ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Program Fil
 es/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Program Files/MiKTe
@@ -1825,7 +1853,7 @@ s/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cms
 y7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C
 :/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/P
 rogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msam7.pfb>
-Output written on moravec-ir.pdf (36 pages, 7650736 bytes).
+Output written on moravec-ir.pdf (36 pages, 7666623 bytes).
 PDF statistics:
  1027 PDF objects out of 1200 (max. 8388607)
  73 named destinations out of 1000 (max. 500000)
